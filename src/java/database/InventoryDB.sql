@@ -79,3 +79,4 @@ INSERT INTO `item_table` (`Category`,`ItemName`,`Price`,`Owner`) VALUES (1,'toas
 INSERT INTO `item_table` (`Category`,`ItemName`,`Price`,`Owner`) VALUES (3,'lamp',5,'cprg352+anne@gmail.com');
 INSERT INTO `item_table` (`Category`,`ItemName`,`Price`,`Owner`) VALUES (6,'winter tires',200,'cprg352+anne@gmail.com');
 INSERT INTO `item_table` (`Category`,`ItemName`,`Price`,`Owner`) VALUES (5,'dresser',50,'cprg352+anne@gmail.com');
+
